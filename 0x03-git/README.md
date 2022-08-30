@@ -1,2 +1,2 @@
 My second commit
-Edited commit
+Editing a new commit
